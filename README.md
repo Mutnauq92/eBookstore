@@ -7,9 +7,9 @@ Python | SQLite | Docker
 [![My Skills](https://skillicons.dev/icons?i=python,sqlite,docker&theme=light)](https://skillicons.dev)  
 
 ## Setup  
-If you do not have Docker account, please create one <a href="https://www.docker.com">HERE</a>  
+If you <span style="color:red">DO NOT</span> have Docker account, please create one <a href="https://www.docker.com">HERE</a>  
   
-Assuming Docker account exists, login to <a href="https://labs.play-with-docker.com/">DOCKER LABS</a>  
+Assuming Docker account <span style="color:green">EXISTS</span>, login to <a href="https://labs.play-with-docker.com/">DOCKER LABS</a>  
 
 1. Add an instance inside docker labs  
     <img src="pics/add_instance.png">  
