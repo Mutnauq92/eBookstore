@@ -12,7 +12,7 @@ If you do not have Docker account, please create one <a href="https://www.docker
 Assuming Docker account exists, login to <a href="https://labs.play-with-docker.com/">DOCKER LABS</a>  
 
 1. Add an instance inside docker labs  
-<img src="pics/add_instance.png">  
+    <img src="pics/add_instance.png">  
 
 1. Pull bookstore image from docker hub. 
     ```
