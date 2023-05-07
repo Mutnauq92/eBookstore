@@ -270,7 +270,7 @@ def run():
 
         elif user_choice == "0":
             conn.db.close()
-            print("Closing database... Goodbye !")
+            print("Program is closing. Goodbye !")
             exit()
 
 
