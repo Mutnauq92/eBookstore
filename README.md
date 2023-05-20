@@ -1,5 +1,7 @@
 # eBookstore 
-This is an eBookStore management app  
+Program to manage eBookStore.
+User can add, update, delete a book, search for a book and display all books available.
+ 
 
 ---  
 ## Tech Stack  
